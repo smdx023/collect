@@ -1,0 +1,2354 @@
+2018-03-30 14:16:37. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:16:37. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:16:37. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:16:48. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:16:48. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:16:48. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:19:55. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:19:55. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:19:55. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:27:11. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:27:11. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:27:11. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:27:11. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:27:11. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:27:11. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:27:11. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 14:27:24. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:27:24. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:27:24. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:27:24. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:27:24. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:27:24. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:27:24. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 14:27:39. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:27:39. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:27:39. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:27:39. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:27:39. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:27:39. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:27:39. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 14:30:15. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:30:15. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:30:15. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:30:15. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:30:15. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:30:15. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:30:15. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 14:30:24. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:30:24. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:30:24. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:30:24. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:30:24. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:30:24. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:30:24. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 14:33:36. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:33:36. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:33:36. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:33:36. 2 WARN   (app:source/main.c:51) - tasks init success
+2018-03-30 14:33:36. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:33:36. 2 WARN   (app:source/main.c:55) - collect service init success
+2018-03-30 14:33:36. 2 WARN   (app:source/main.c:57) - app init success
+2018-03-30 14:42:41. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:42:41. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:42:41. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:42:41. 2 WARN   (app:source/main.c:57) - tasks init success
+2018-03-30 14:42:41. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:42:41. 2 WARN   (app:source/main.c:61) - collect service init success
+2018-03-30 14:42:41. 2 WARN   (app:source/main.c:63) - app init success
+2018-03-30 14:44:15. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:44:15. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:44:15. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:44:15. 2 WARN   (app:source/main.c:51) - tasks init success
+2018-03-30 14:44:15. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:44:15. 2 WARN   (app:source/main.c:55) - collect service init success
+2018-03-30 14:44:15. 2 WARN   (app:source/main.c:57) - app init success
+2018-03-30 14:48:41. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:48:41. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:48:41. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:48:41. 2 WARN   (app:source/main.c:51) - tasks init success
+2018-03-30 14:48:41. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:48:41. 2 WARN   (app:source/main.c:55) - collect service init success
+2018-03-30 14:48:41. 2 WARN   (app:source/main.c:57) - app init success
+2018-03-30 14:50:36. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:50:36. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:50:36. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:50:36. 2 WARN   (app:source/main.c:51) - tasks init success
+2018-03-30 14:50:36. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:50:36. 2 WARN   (app:source/main.c:55) - collect service init success
+2018-03-30 14:50:36. 2 WARN   (app:source/main.c:57) - app init success
+2018-03-30 14:54:50. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:54:50. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:54:50. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:54:50. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:54:50. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:54:50. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:54:50. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 14:56:06. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:56:06. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:56:06. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:56:06. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:56:06. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:56:06. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:56:06. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 14:58:06. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:58:06. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:58:06. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:58:06. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:58:06. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:58:06. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:58:06. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 14:59:36. 2 WARN   (app:source/main.c:26) - log init success
+2018-03-30 14:59:36. 2 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 14:59:36. 2 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 14:59:36. 2 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 14:59:36. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 14:59:36. 2 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 14:59:36. 2 WARN   (app:source/main.c:56) - app init success
+2018-03-30 15:00:18. 3 WARN   (app:source/main.c:26) - log init success
+2018-03-30 15:00:18. 3 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 15:00:18. 3 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 15:00:18. 3 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 15:00:18. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 15:00:18. 3 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 15:00:18. 3 WARN   (app:source/main.c:56) - app init success
+2018-03-30 15:00:37. 3 WARN   (app:source/main.c:26) - log init success
+2018-03-30 15:00:37. 3 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 15:00:37. 3 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 15:00:37. 3 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 15:00:37. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 15:00:37. 3 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 15:00:37. 3 WARN   (app:source/main.c:56) - app init success
+2018-03-30 15:03:20. 3 WARN   (app:source/main.c:26) - log init success
+2018-03-30 15:03:20. 3 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 15:03:20. 3 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 15:03:20. 3 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 15:03:20. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 15:03:20. 3 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 15:03:20. 3 WARN   (app:source/main.c:56) - app init success
+2018-03-30 15:03:40. 3 WARN   (app:source/main.c:26) - log init success
+2018-03-30 15:03:40. 3 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 15:03:40. 3 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 15:03:40. 3 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 15:03:40. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 15:03:40. 3 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 15:03:40. 3 WARN   (app:source/main.c:56) - app init success
+2018-03-30 15:04:25. 3 WARN   (app:source/main.c:26) - log init success
+2018-03-30 15:04:25. 3 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 15:04:25. 3 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 15:04:25. 3 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 15:04:25. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 15:04:25. 3 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 15:04:25. 3 WARN   (app:source/main.c:56) - app init success
+2018-03-30 15:36:50. 3 WARN   (app:source/main.c:26) - log init success
+2018-03-30 15:36:50. 3 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 15:36:50. 3 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 15:36:50. 3 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 15:36:50. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 15:36:50. 3 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 15:36:50. 3 WARN   (app:source/main.c:56) - app init success
+2018-03-30 15:40:06. 3 WARN   (app:source/main.c:26) - log init success
+2018-03-30 15:40:06. 3 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 15:40:06. 3 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 15:40:06. 3 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 15:40:06. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 15:40:06. 3 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 15:40:06. 3 WARN   (app:source/main.c:56) - app init success
+2018-03-30 16:31:40. 4 WARN   (app:source/main.c:26) - log init success
+2018-03-30 16:31:40. 4 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 16:31:40. 4 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 16:31:40. 4 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 16:31:40. 4 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 16:31:40. 4 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 16:31:40. 4 WARN   (app:source/main.c:56) - app init success
+2018-03-30 16:33:47. 4 WARN   (app:source/main.c:26) - log init success
+2018-03-30 16:33:47. 4 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 16:33:47. 4 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 16:33:47. 4 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 16:33:47. 4 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 16:33:47. 4 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 16:33:47. 4 WARN   (app:source/main.c:56) - app init success
+2018-03-30 16:37:41. 4 WARN   (app:source/main.c:26) - log init success
+2018-03-30 16:37:41. 4 WARN   (app:source/main.c:33) - conf init success
+2018-03-30 16:37:41. 4 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-03-30 16:37:41. 4 WARN   (app:source/main.c:50) - tasks init success
+2018-03-30 16:37:41. 4 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-03-30 16:37:41. 4 WARN   (app:source/main.c:54) - collect service init success
+2018-03-30 16:37:41. 4 WARN   (app:source/main.c:56) - app init success
+2018-04-02 09:55:45. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-02 09:55:45. 9 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 09:55:45. 9 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 09:55:45. 9 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 09:55:45. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 09:55:45. 9 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 09:55:45. 9 WARN   (app:source/main.c:56) - app init success
+2018-04-02 09:56:50. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-02 09:56:50. 9 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 09:56:50. 9 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 09:56:50. 9 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 09:56:50. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 09:56:50. 9 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 09:56:50. 9 WARN   (app:source/main.c:56) - app init success
+2018-04-02 09:58:24. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-02 09:58:24. 9 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 09:58:24. 9 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 09:58:24. 9 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 09:58:24. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 09:58:24. 9 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 09:58:24. 9 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:02:46.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:02:46.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:02:46.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:02:46.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:02:46.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:02:46.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:02:46.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:03:46.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:03:46.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:03:46.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:03:46.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:03:46.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:03:46.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:03:46.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:04:46.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:04:46.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:04:46.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:04:46.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:04:46.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:04:46.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:04:46.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:05:25.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:05:25.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:05:25.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:05:25.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:05:25.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:05:25.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:05:25.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:05:48.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:05:48.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:05:48.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:05:48.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:05:48.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:05:48.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:05:48.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:09:20.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:09:20.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:09:20.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:09:20.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:09:20.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:09:20.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:09:20.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:10:58.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:10:58.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:10:58.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:10:58.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:10:58.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:10:58.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:10:58.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:12:28.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:12:28.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:12:28.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:12:28.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:12:28.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:12:28.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:12:28.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 10:15:00.10 WARN   (app:source/main.c:26) - log init success
+2018-04-02 10:15:00.10 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 10:15:00.10 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 10:15:00.10 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 10:15:00.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 10:15:00.10 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 10:15:00.10 WARN   (app:source/main.c:56) - app init success
+2018-04-02 11:28:29.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:28:29.11 WARN   (app:source/main.c:33) - conf init success
+2018-04-02 11:28:29.11 WARN   (app:source/main.c:42) - collect task thread = 2
+2018-04-02 11:28:29.11 WARN   (app:source/main.c:50) - tasks init success
+2018-04-02 11:28:29.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:28:29.11 WARN   (app:source/main.c:54) - collect service init success
+2018-04-02 11:28:29.11 WARN   (app:source/main.c:56) - app init success
+2018-04-02 11:51:28.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:51:39.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:51:39.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:51:39.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:51:39.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:51:39.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:51:39.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:51:39.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 11:52:26.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:52:26.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:52:26.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:52:26.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:52:26.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:52:26.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:52:26.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 11:54:08.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:54:08.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:54:08.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:54:08.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:54:08.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:54:08.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:54:08.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 11:54:23.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:54:23.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:54:23.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:54:23.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:54:23.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:54:23.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:54:23.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 11:55:29.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:55:29.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:55:29.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:55:29.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:55:29.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:55:29.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:55:29.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 11:56:47.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:56:47.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:56:47.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:56:47.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:56:47.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:56:47.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:56:47.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 11:57:31.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:57:31.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:57:31.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:57:31.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:57:31.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:57:31.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:57:31.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 11:58:19.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:58:19.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:58:19.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:58:19.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:58:19.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:58:19.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:58:19.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 11:59:51.11 WARN   (app:source/main.c:26) - log init success
+2018-04-02 11:59:51.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 11:59:51.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 11:59:51.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 11:59:51.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 11:59:51.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 11:59:51.11 WARN   (app:source/main.c:58) - app init success
+2018-04-02 13:24:40. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-02 13:24:40. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 13:24:40. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 13:24:40. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 13:24:40. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 13:24:40. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 13:24:40. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-02 13:31:41. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-02 13:31:41. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 13:31:41. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 13:31:41. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 13:31:41. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 13:31:41. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 13:31:41. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-02 13:32:35. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-02 13:32:35. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 13:32:35. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 13:32:35. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 13:32:35. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 13:32:35. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 13:32:35. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-02 13:34:41. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-02 13:34:41. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 13:34:41. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 13:34:41. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 13:34:41. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 13:34:41. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 13:34:41. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-02 13:40:14. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-02 13:40:14. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 13:40:14. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 13:40:14. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 13:40:14. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 13:40:14. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 13:40:14. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-02 13:40:58. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-02 13:40:58. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 13:40:58. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 13:40:58. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 13:40:58. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 13:40:58. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 13:40:58. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:01:13. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:01:13. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:01:13. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:01:13. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:01:13. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:01:13. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:01:13. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:05:24. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:05:24. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:05:24. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:05:24. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:05:24. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:05:24. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:05:24. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:09:36. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:09:36. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:09:36. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:09:36. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:09:36. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:09:36. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:09:36. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:10:12. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:10:12. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:10:12. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:10:12. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:10:12. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:10:12. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:10:12. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:11:07. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:11:07. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:11:07. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:11:07. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:11:07. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:11:07. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:11:07. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:11:47. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:11:47. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:11:47. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:11:47. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:11:47. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:11:47. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:11:47. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:13:36. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:13:36. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:13:36. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:13:36. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:13:36. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:13:36. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:13:36. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:23:10. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:23:10. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:23:10. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:23:10. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:23:10. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:23:10. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:23:10. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:24:37. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:24:37. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:24:37. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:24:37. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:24:37. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:24:37. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:24:37. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:27:52. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:27:52. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:27:52. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:27:52. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:27:52. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:27:52. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:27:52. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:28:00. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:28:00. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:28:00. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:28:00. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:28:00. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:28:00. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:28:00. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:28:54. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:28:54. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:28:54. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:28:54. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:28:54. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:28:54. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:28:54. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:29:49. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:29:49. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:29:49. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:29:49. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:29:49. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:29:49. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:29:49. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:30:49. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:30:49. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:30:49. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:30:49. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:30:49. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:30:49. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:30:49. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:31:28. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:31:28. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:31:28. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:31:28. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:31:28. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:31:28. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:31:28. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:43:36. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:43:36. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:43:36. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:43:36. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:43:36. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:43:36. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:43:36. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:44:15. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:44:15. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:44:15. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:44:15. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:44:15. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:44:15. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:44:15. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:54:30. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:54:30. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:54:30. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:54:30. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:54:30. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:54:30. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:54:30. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:55:39. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:55:39. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:55:39. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:55:39. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:55:39. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:55:39. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:55:39. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:56:08. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:56:08. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:56:08. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:56:08. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:56:08. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:56:08. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:56:08. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:57:43. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:57:43. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:57:43. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:57:43. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:57:43. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:57:43. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:57:43. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 14:58:18. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-02 14:58:18. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 14:58:18. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 14:58:18. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 14:58:18. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 14:58:18. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 14:58:18. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:01:35. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:01:35. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:01:35. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:01:35. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:01:35. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:01:35. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:01:35. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:02:00. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:02:00. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:02:00. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:02:00. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:02:00. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:02:00. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:02:00. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:02:52. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:02:52. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:02:52. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:02:52. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:02:52. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:02:52. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:02:52. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:02:55. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:02:55. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:02:55. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:02:55. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:02:55. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:02:55. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:02:55. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:03:25. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:03:25. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:03:25. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:03:25. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:03:25. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:03:25. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:03:25. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:06:27. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:06:27. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:06:27. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:06:27. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:06:27. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:06:27. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:06:27. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:23:19. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:23:19. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:23:19. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:23:19. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:23:19. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:23:19. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:23:19. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:27:55. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:27:55. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:27:55. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:27:55. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:27:55. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:27:55. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:27:55. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:28:45. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:28:45. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:28:45. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:28:45. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:28:45. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:28:45. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:28:45. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:30:32. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:30:32. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:30:32. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:30:32. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:30:32. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:30:32. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:30:32. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:31:59. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:31:59. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:31:59. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:31:59. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:31:59. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:31:59. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:31:59. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:32:17. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:32:17. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:32:17. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:32:17. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:32:17. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:32:17. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:32:17. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:33:23. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:33:23. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:33:23. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:33:23. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:33:23. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:33:23. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:33:23. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:39:25. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:39:25. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:39:25. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:39:25. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:39:25. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:39:25. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:39:25. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:39:33. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:39:33. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:39:33. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:39:33. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:39:33. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:39:33. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:39:33. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:39:52. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:39:52. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:39:52. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:39:52. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:39:52. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:39:52. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:39:52. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:40:18. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:40:18. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:40:18. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:40:18. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:40:18. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:40:18. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:40:18. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:40:36. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:40:36. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:40:36. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:40:36. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:40:36. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:40:36. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:40:36. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:40:44. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:40:44. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:40:44. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:40:44. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:40:44. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:40:44. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:40:44. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:37. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:37. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:37. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:37. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:37. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:37. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:37. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:44. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:44. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:44. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:44. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:44. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:44. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:44. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:46. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:46. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:46. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:46. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:46. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:46. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:46. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:47. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:47. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:47. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:47. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:47. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:47. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:47. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:48. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:48. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:48. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:48. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:48. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:48. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:48. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:50. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:50. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:50. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:50. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:50. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:50. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:50. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:51. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:51. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:51. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:52. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:52. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:52. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:53. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:53. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:53. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:54. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:54. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:54. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:55. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:55. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:55. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:55. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:55. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:55. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:55. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:56. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:56. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:56. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:57. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:57. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:57. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:58. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:58. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:58. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:59. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:41:59. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:41:59. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:45:12. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:45:12. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:45:12. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:45:12. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:45:12. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:45:12. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:45:12. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:45:15. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:45:15. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:45:15. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:45:15. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:45:15. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:45:15. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:45:15. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:45:21. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:45:21. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:45:21. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:45:21. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:45:21. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:45:21. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:45:21. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:45:23. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:45:23. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:45:23. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:45:23. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:45:23. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:45:23. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:45:23. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:45:29. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:45:29. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:45:29. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:45:29. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:45:29. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:45:29. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:45:29. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:45:35. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:45:35. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:45:35. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:45:35. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:45:35. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:45:35. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:45:35. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:45:44. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:45:44. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:45:44. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:45:44. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:45:44. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:45:44. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:45:44. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:05. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:05. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:05. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:05. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:05. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:05. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:05. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:07. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:07. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:07. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:08. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:08. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:08. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:09. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:09. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:09. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:09. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:09. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:09. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:09. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:10. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:10. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:10. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:11. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:11. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:11. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:12. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:12. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:12. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:13. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:13. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:13. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:14. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:14. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:14. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:15. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:15. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:15. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:15. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:15. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:15. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:15. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:16. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:16. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:16. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:17. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:17. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:17. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:17. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:17. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:18. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:18. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:18. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:18. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:18. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:18. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:19. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:19. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:19. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:19. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:20. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:20. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:20. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:20. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:20. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:21. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:21. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:21. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:22. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:22. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:22. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:22. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:23. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:23. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:23. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:23. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:24. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:24. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:24. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:24. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:25. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:25. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:25. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:26. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:26. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:26. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:26. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:26. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:27. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:27. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:27. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:27. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:27. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:28. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:28. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:28. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:28. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:29. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:29. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:29. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:29. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:30. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:46:30. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:46:30. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:56:52. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:56:52. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:56:52. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:56:52. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:56:52. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:56:52. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:56:52. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:57:02. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:57:02. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:57:02. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:57:02. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:57:02. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:57:02. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:57:02. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:57:07. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:57:07. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:57:07. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:57:07. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:57:07. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:57:07. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:57:07. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:57:11. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:57:11. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:57:11. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:57:11. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:57:11. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:57:11. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:57:11. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:57:14. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:57:14. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:57:14. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:57:14. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:57:14. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:57:14. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:57:14. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:57:16. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:57:16. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:57:16. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:57:16. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:57:16. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:57:16. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:57:16. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:57:20. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:57:20. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:57:20. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:57:20. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:57:20. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:57:20. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:57:20. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:57:24. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:57:24. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:57:24. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:57:24. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:57:24. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:57:24. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:57:24. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:57:26. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:57:26. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:57:26. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:57:26. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:57:26. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:57:26. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:57:26. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:58:23. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:58:23. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:58:23. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:58:23. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:58:23. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:58:23. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:58:23. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:58:29. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:58:29. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:58:29. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:58:29. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:58:29. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:58:29. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:58:29. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:58:33. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:58:33. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:58:33. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:58:33. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:58:33. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:58:33. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:58:33. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:58:35. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:58:35. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:58:35. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:58:35. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:58:35. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:58:35. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:58:35. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 15:58:38. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-02 15:58:38. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 15:58:38. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 15:58:38. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 15:58:38. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 15:58:38. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 15:58:38. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-02 16:10:38. 4 WARN   (app:source/main.c:26) - log init success
+2018-04-02 16:10:38. 4 WARN   (app:source/main.c:35) - conf init success
+2018-04-02 16:10:38. 4 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-02 16:10:38. 4 WARN   (app:source/main.c:52) - tasks init success
+2018-04-02 16:10:38. 4 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-02 16:10:38. 4 WARN   (app:source/main.c:56) - collect service init success
+2018-04-02 16:10:38. 4 WARN   (app:source/main.c:58) - app init success
+2018-04-03 11:04:41.11 WARN   (app:source/main.c:26) - log init success
+2018-04-03 11:04:41.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 11:04:41.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 11:04:41.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 11:04:41.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 11:04:41.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 11:04:41.11 WARN   (app:source/main.c:58) - app init success
+2018-04-03 11:09:28.11 WARN   (app:source/main.c:26) - log init success
+2018-04-03 11:09:28.11 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 11:09:28.11 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 11:09:28.11 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 11:09:28.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 11:09:28.11 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 11:09:28.11 WARN   (app:source/main.c:58) - app init success
+2018-04-03 13:55:07. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-03 13:55:07. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 13:55:07. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 13:55:07. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 13:55:07. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 13:55:07. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 13:55:07. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-03 13:56:20. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-03 13:56:20. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 13:56:20. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 13:56:20. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 13:56:20. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 13:56:20. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 13:56:20. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-03 13:56:39. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-03 13:56:39. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 13:56:39. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 13:56:39. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 13:56:39. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 13:56:39. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 13:56:39. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-03 13:57:01. 1 WARN   (app:source/main.c:26) - log init success
+2018-04-03 13:57:01. 1 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 13:57:01. 1 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 13:57:01. 1 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 13:57:01. 1 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 13:57:01. 1 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 13:57:01. 1 WARN   (app:source/main.c:58) - app init success
+2018-04-03 14:01:11. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-03 14:01:11. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 14:01:11. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 14:01:11. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 14:01:11. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 14:01:11. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 14:01:11. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-03 14:08:12. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-03 14:08:12. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 14:08:12. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 14:08:12. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 14:08:12. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 14:08:12. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 14:08:12. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-03 14:09:08. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-03 14:09:08. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 14:09:08. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 14:09:08. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 14:09:08. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 14:09:08. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 14:09:08. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-03 14:15:22. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-03 14:15:22. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 14:15:22. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 14:15:22. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 14:15:22. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 14:15:22. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 14:15:22. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-03 14:29:10. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-03 14:29:10. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 14:29:10. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 14:29:10. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 14:29:10. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 14:29:10. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 14:29:10. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-03 14:30:22. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-03 14:30:22. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 14:30:22. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 14:30:22. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 14:30:22. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 14:30:22. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 14:30:22. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-03 15:58:55. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-03 15:58:55. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 15:58:55. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 15:58:55. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 15:58:55. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 15:58:55. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 15:58:55. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-03 17:48:16. 5 WARN   (app:source/main.c:26) - log init success
+2018-04-03 17:48:16. 5 WARN   (app:source/main.c:35) - conf init success
+2018-04-03 17:48:16. 5 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-03 17:48:16. 5 WARN   (app:source/main.c:52) - tasks init success
+2018-04-03 17:48:16. 5 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-03 17:48:16. 5 WARN   (app:source/main.c:56) - collect service init success
+2018-04-03 17:48:16. 5 WARN   (app:source/main.c:58) - app init success
+2018-04-04 09:05:18. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-04 09:05:18. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-04 09:05:18. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-04 09:05:18. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-04 09:05:18. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-04 09:05:18. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-04 09:05:18. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-04 10:15:49.10 WARN   (app:source/main.c:26) - log init success
+2018-04-04 10:15:49.10 WARN   (app:source/main.c:35) - conf init success
+2018-04-04 10:15:49.10 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-04 10:15:49.10 WARN   (app:source/main.c:52) - tasks init success
+2018-04-04 10:15:49.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-04 10:15:49.10 WARN   (app:source/main.c:56) - collect service init success
+2018-04-04 10:15:49.10 WARN   (app:source/main.c:58) - app init success
+2018-04-04 14:10:39. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-04 14:10:39. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-04 14:10:39. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-04 14:10:39. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-04 14:10:39. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-04 14:10:39. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-04 14:10:39. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-04 14:11:33. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-04 14:11:33. 2 WARN   (app:source/main.c:35) - conf init success
+2018-04-04 14:11:33. 2 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-04 14:11:33. 2 WARN   (app:source/main.c:52) - tasks init success
+2018-04-04 14:11:33. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-04 14:11:33. 2 WARN   (app:source/main.c:56) - collect service init success
+2018-04-04 14:11:33. 2 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:06:15. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:06:15. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:06:15. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:06:15. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:06:15. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:06:15. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:06:15. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:09:57. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:09:57. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:09:57. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:09:57. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:09:57. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:09:57. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:09:57. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:10:40. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:10:40. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:10:40. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:10:40. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:10:40. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:10:40. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:10:40. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:13:22. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:13:22. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:13:22. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:13:22. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:13:22. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:13:22. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:13:22. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:18:19. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:18:19. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:18:19. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:18:19. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:18:19. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:18:19. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:18:19. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:19:27. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:19:27. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:19:27. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:19:27. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:19:27. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:19:27. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:19:27. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:19:54. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:19:54. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:19:54. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:19:54. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:19:54. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:19:54. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:19:54. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:20:44. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:20:44. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:20:44. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:20:44. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:20:44. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:20:44. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:20:44. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:22:03. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:22:03. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:22:03. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:22:03. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:22:03. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:22:03. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:22:03. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:22:54. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:22:54. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:22:54. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:22:54. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:22:54. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:22:54. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:22:54. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:23:33. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:23:33. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:23:33. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:23:33. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:23:33. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:23:33. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:23:33. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:25:03. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:25:03. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:25:03. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:25:03. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:25:03. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:25:03. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:25:03. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:25:27. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:25:27. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:25:27. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:25:27. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:25:27. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:25:27. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:25:27. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:25:36. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:25:36. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:25:36. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:25:36. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:25:36. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:25:36. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:25:36. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:26:52. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:26:52. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:26:52. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:26:52. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:26:52. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:26:52. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:26:52. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:27:03. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:27:03. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:27:03. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:27:03. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:27:03. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:27:03. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:27:03. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:27:21. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:27:21. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:27:21. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:27:21. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:27:21. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:27:21. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:27:21. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:27:30. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:27:30. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:27:30. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:27:30. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:27:30. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:27:30. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:27:30. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:38:22. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:38:22. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:38:22. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:38:22. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:38:22. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:38:22. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:38:22. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:43:51. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:43:51. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:43:51. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:43:51. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:43:51. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:43:51. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:43:51. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:44:29. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:44:29. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:44:29. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:44:29. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:44:29. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:44:29. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:44:29. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:46:39. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:46:39. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:46:39. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:46:39. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:46:39. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:46:39. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:46:39. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:48:53. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:48:53. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:48:53. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:48:53. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:48:53. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:48:53. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:48:53. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:51:33. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:51:33. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:51:33. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:51:33. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:51:33. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:51:33. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:51:33. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 09:52:12. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-08 09:52:12. 9 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 09:52:12. 9 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 09:52:12. 9 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 09:52:12. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 09:52:12. 9 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 09:52:12. 9 WARN   (app:source/main.c:58) - app init success
+2018-04-08 15:02:40. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-08 15:02:40. 3 WARN   (app:source/main.c:35) - conf init success
+2018-04-08 15:02:40. 3 WARN   (app:source/main.c:44) - collect task thread = 2
+2018-04-08 15:02:40. 3 WARN   (app:source/main.c:52) - tasks init success
+2018-04-08 15:02:40. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-08 15:02:40. 3 WARN   (app:source/main.c:56) - collect service init success
+2018-04-08 15:02:40. 3 WARN   (app:source/main.c:58) - app init success
+2018-04-09 14:30:01. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:30:12. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:30:42. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:30:42. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:30:42. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:30:42. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:30:42. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:30:42. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:30:42. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:31:55. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:31:55. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:31:55. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:31:55. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:31:55. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:31:55. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:31:55. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:32:09. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:32:09. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:32:09. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:32:09. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:32:09. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:32:09. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:32:10. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:34:13. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:34:13. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:34:13. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:34:13. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:34:13. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:34:13. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:34:13. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:34:25. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:34:25. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:34:25. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:34:25. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:34:25. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:34:25. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:34:25. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:35:44. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:35:44. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:35:44. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:35:44. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:35:44. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:35:44. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:35:44. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:37:07. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:37:07. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:37:07. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:37:07. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:37:07. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:37:07. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:37:07. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:37:47. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:37:47. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:37:47. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:37:47. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:37:47. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:37:47. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:37:47. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:38:21. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:38:21. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:38:21. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:38:21. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:38:21. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:38:21. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:38:21. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 14:39:33. 2 WARN   (app:source/main.c:26) - log init success
+2018-04-09 14:39:33. 2 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 14:39:33. 2 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 14:39:33. 2 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 14:39:33. 2 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 14:39:33. 2 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 14:39:33. 2 WARN   (app:source/main.c:60) - app init success
+2018-04-09 17:57:52. 5 WARN   (app:source/main.c:26) - log init success
+2018-04-09 17:57:52. 5 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 17:57:52. 5 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 17:57:52. 5 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 17:57:52. 5 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 17:57:52. 5 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 17:57:52. 5 WARN   (app:source/main.c:60) - app init success
+2018-04-09 17:57:53. 5 WARN   (app:tests/test.c:172) - cost 0
+2018-04-09 17:58:27. 5 WARN   (app:source/main.c:26) - log init success
+2018-04-09 17:58:27. 5 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 17:58:27. 5 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 17:58:27. 5 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 17:58:27. 5 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 17:58:27. 5 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 17:58:27. 5 WARN   (app:source/main.c:60) - app init success
+2018-04-09 17:58:28. 5 WARN   (app:tests/test.c:172) - cost 5399
+2018-04-09 17:58:56. 5 WARN   (app:source/main.c:26) - log init success
+2018-04-09 17:58:56. 5 WARN   (app:source/main.c:37) - conf init success
+2018-04-09 17:58:56. 5 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-09 17:58:56. 5 WARN   (app:source/main.c:54) - tasks init success
+2018-04-09 17:58:56. 5 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-09 17:58:56. 5 WARN   (app:source/main.c:58) - collect service init success
+2018-04-09 17:58:56. 5 WARN   (app:source/main.c:60) - app init success
+2018-04-09 17:58:58. 5 WARN   (app:tests/test.c:174) - cost 319393
+2018-04-10 08:58:19. 8 WARN   (app:source/main.c:26) - log init success
+2018-04-10 08:58:19. 8 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 08:58:19. 8 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 08:58:19. 8 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 08:58:19. 8 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 08:58:19. 8 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 08:58:19. 8 WARN   (app:source/main.c:60) - app init success
+2018-04-10 08:58:21. 8 WARN   (app:tests/test.c:202) - cost 335114
+2018-04-10 09:01:04. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:01:04. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:01:04. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:01:04. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:01:04. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:01:04. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:01:04. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:01:06. 9 WARN   (app:tests/test.c:202) - cost 328374
+2018-04-10 09:05:49. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:05:49. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:05:49. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:05:49. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:05:49. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:05:49. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:05:49. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:06:06. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:06:06. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:06:06. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:06:06. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:06:06. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:06:06. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:06:06. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:11:57. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:11:57. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:11:57. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:11:57. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:11:57. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:11:57. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:11:57. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:13:38. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:13:38. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:13:38. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:13:38. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:13:38. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:13:38. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:13:38. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:16:49. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:16:49. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:16:49. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:16:49. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:16:49. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:16:49. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:16:49. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:20:08. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:20:08. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:20:08. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:20:08. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:20:08. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:20:08. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:20:08. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:21:46. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:21:46. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:21:46. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:21:46. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:21:46. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:21:46. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:21:46. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:25:00. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:25:00. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:25:00. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:25:00. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:25:00. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:25:00. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:25:00. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:25:09. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:25:09. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:25:09. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:25:09. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:25:09. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:25:09. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:25:09. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:25:58. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:25:58. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:25:58. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:25:58. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:25:58. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:25:58. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:25:58. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:28:22. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:28:22. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:28:22. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:28:22. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:28:22. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:28:22. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:28:22. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:38:22. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:38:22. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:38:22. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:38:22. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:38:22. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:38:22. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:38:22. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:38:59. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:38:59. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:38:59. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:38:59. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:38:59. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:38:59. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:38:59. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:39:22. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:39:22. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:39:22. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:39:22. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:39:22. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:39:22. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:39:22. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:40:12. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:40:12. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:40:12. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:40:12. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:40:12. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:40:12. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:40:12. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:41:34. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:41:34. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:41:34. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:41:34. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:41:34. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:41:34. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:41:34. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:50:48. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:50:48. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:50:48. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:50:48. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:50:48. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:50:48. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:50:48. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:51:19. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:51:19. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:51:19. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:51:19. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:51:19. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:51:19. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:51:19. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:54:13. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:54:13. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:54:13. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:54:13. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:54:13. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:54:13. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:54:13. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 09:55:00. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-10 09:55:00. 9 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 09:55:00. 9 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 09:55:00. 9 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 09:55:00. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 09:55:00. 9 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 09:55:00. 9 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:07:02.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:07:02.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:07:02.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:07:02.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:07:02.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:07:02.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:07:02.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:07:26.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:07:26.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:07:26.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:07:26.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:07:26.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:07:26.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:07:26.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:12:27.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:12:27.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:12:27.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:12:27.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:12:27.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:12:27.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:12:27.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:13:12.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:13:12.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:13:12.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:13:12.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:13:12.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:13:12.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:13:12.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:13:58.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:13:58.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:13:58.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:13:58.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:13:58.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:13:58.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:13:58.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:14:19.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:14:19.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:14:19.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:14:19.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:14:19.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:14:19.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:14:19.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:16:30.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:16:30.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:16:30.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:16:30.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:16:30.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:16:30.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:16:30.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:17:06.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:17:06.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:17:06.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:17:06.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:17:06.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:17:06.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:17:06.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:17:30.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:17:30.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:17:30.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:17:30.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:17:30.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:17:30.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:17:30.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 10:17:48.10 WARN   (app:source/main.c:26) - log init success
+2018-04-10 10:17:48.10 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 10:17:48.10 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 10:17:48.10 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 10:17:48.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 10:17:48.10 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 10:17:48.10 WARN   (app:source/main.c:60) - app init success
+2018-04-10 11:49:06.11 WARN   (app:source/main.c:26) - log init success
+2018-04-10 11:49:06.11 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 11:49:06.11 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 11:49:06.11 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 11:49:06.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 11:49:06.11 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 11:49:06.11 WARN   (app:source/main.c:60) - app init success
+2018-04-10 11:49:51.11 WARN   (app:source/main.c:26) - log init success
+2018-04-10 11:49:51.11 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 11:49:51.11 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 11:49:51.11 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 11:49:51.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 11:49:51.11 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 11:49:51.11 WARN   (app:source/main.c:60) - app init success
+2018-04-10 11:49:51.11 WARN   (app:tests/test.c:149) - cost 320361
+2018-04-10 11:50:22.11 WARN   (app:source/main.c:26) - log init success
+2018-04-10 11:50:22.11 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 11:50:22.11 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 11:50:22.11 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 11:50:22.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 11:50:22.11 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 11:50:22.11 WARN   (app:source/main.c:60) - app init success
+2018-04-10 11:50:25.11 WARN   (app:tests/test.c:149) - cost 2859429
+2018-04-10 15:16:30. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-10 15:16:30. 3 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 15:16:30. 3 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 15:16:30. 3 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 15:16:30. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 15:16:30. 3 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 15:16:30. 3 WARN   (app:source/main.c:60) - app init success
+2018-04-10 15:17:36. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-10 15:17:36. 3 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 15:17:36. 3 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 15:17:36. 3 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 15:17:36. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 15:17:36. 3 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 15:17:36. 3 WARN   (app:source/main.c:60) - app init success
+2018-04-10 15:18:15. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-10 15:18:15. 3 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 15:18:15. 3 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 15:18:15. 3 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 15:18:15. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 15:18:15. 3 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 15:18:15. 3 WARN   (app:source/main.c:60) - app init success
+2018-04-10 15:18:49. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-10 15:18:49. 3 WARN   (app:source/main.c:37) - conf init success
+2018-04-10 15:18:49. 3 WARN   (app:source/main.c:46) - collect task thread = 2
+2018-04-10 15:18:49. 3 WARN   (app:source/main.c:54) - tasks init success
+2018-04-10 15:18:49. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-10 15:18:49. 3 WARN   (app:source/main.c:58) - collect service init success
+2018-04-10 15:18:49. 3 WARN   (app:source/main.c:60) - app init success
+2018-04-11 09:43:40. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:44:36. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:46:07. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:46:22. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:47:58. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:48:41. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:48:41. 9 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 09:48:41. 9 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 09:48:41. 9 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 09:48:41. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 09:48:41. 9 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 09:48:41. 9 WARN   (app:source/main.c:65) - app init success
+2018-04-11 09:49:32. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:49:32. 9 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 09:49:32. 9 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 09:49:32. 9 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 09:49:32. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 09:49:32. 9 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 09:49:32. 9 WARN   (app:source/main.c:65) - app init success
+2018-04-11 09:55:32. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:55:32. 9 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 09:55:32. 9 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 09:55:32. 9 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 09:55:32. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 09:55:32. 9 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 09:55:32. 9 WARN   (app:source/main.c:65) - app init success
+2018-04-11 09:55:57. 9 WARN   (app:source/main.c:26) - log init success
+2018-04-11 09:55:57. 9 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 09:55:57. 9 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 09:55:57. 9 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 09:55:57. 9 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 09:55:57. 9 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 09:55:57. 9 WARN   (app:source/main.c:65) - app init success
+2018-04-11 10:09:37.10 WARN   (app:source/main.c:26) - log init success
+2018-04-11 10:09:37.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 10:09:37.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 10:09:37.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 10:09:37.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 10:09:37.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 10:09:37.10 WARN   (app:source/main.c:65) - app init success
+2018-04-11 10:09:54.10 WARN   (app:source/main.c:26) - log init success
+2018-04-11 10:09:54.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 10:09:54.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 10:09:54.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 10:09:54.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 10:09:54.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 10:09:54.10 WARN   (app:source/main.c:65) - app init success
+2018-04-11 10:10:20.10 WARN   (app:source/main.c:26) - log init success
+2018-04-11 10:10:20.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 10:10:20.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 10:10:20.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 10:10:20.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 10:10:20.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 10:10:20.10 WARN   (app:source/main.c:65) - app init success
+2018-04-11 10:10:26.10 WARN   (app:source/main.c:26) - log init success
+2018-04-11 10:10:26.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 10:10:26.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 10:10:26.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 10:10:26.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 10:10:26.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 10:10:26.10 WARN   (app:source/main.c:65) - app init success
+2018-04-11 10:12:03.10 WARN   (app:source/main.c:26) - log init success
+2018-04-11 10:12:03.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 10:12:03.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 10:12:03.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 10:12:03.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 10:12:03.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 10:12:03.10 WARN   (app:source/main.c:65) - app init success
+2018-04-11 11:18:46.11 WARN   (app:source/main.c:26) - log init success
+2018-04-11 11:18:46.11 WARN   (app:source/main.c:42) - conf init success
+2018-04-11 11:18:46.11 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-11 11:18:46.11 WARN   (app:source/main.c:59) - tasks init success
+2018-04-11 11:18:46.11 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-11 11:18:46.11 WARN   (app:source/main.c:63) - collect service init success
+2018-04-11 11:18:46.11 WARN   (app:source/main.c:65) - app init success
+2018-04-12 10:04:58.10 WARN   (app:source/main.c:26) - log init success
+2018-04-12 10:04:58.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 10:04:58.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-12 10:04:58.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-12 10:04:58.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 10:04:58.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-12 10:04:58.10 WARN   (app:source/rpc/rpc_service.c:12) - rpc host = 0.0.0.0, port = 9091
+2018-04-12 10:04:58.10 WARN   (app:source/main.c:67) - rpc server init success
+2018-04-12 10:04:58.10 WARN   (app:source/main.c:69) - app init success
+2018-04-12 10:05:22.10 WARN   (app:source/main.c:26) - log init success
+2018-04-12 10:05:22.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 10:05:22.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-12 10:05:22.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-12 10:05:22.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 10:05:22.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-12 10:05:22.10 WARN   (app:source/rpc/rpc_service.c:12) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 10:05:22.10 WARN   (app:source/main.c:67) - rpc server init success
+2018-04-12 10:05:22.10 WARN   (app:source/main.c:69) - app init success
+2018-04-12 10:09:29.10 WARN   (app:source/main.c:26) - log init success
+2018-04-12 10:09:29.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 10:09:29.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-12 10:09:29.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-12 10:09:29.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 10:09:29.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-12 10:09:29.10 WARN   (app:source/rpc/rpc_service.c:12) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 10:09:29.10 WARN   (app:source/main.c:67) - rpc server init success
+2018-04-12 10:09:29.10 WARN   (app:source/main.c:69) - app init success
+2018-04-12 10:19:25.10 WARN   (app:source/main.c:26) - log init success
+2018-04-12 10:19:25.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 10:19:25.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-12 10:19:25.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-12 10:19:25.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 10:19:25.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-12 10:19:25.10 WARN   (app:source/rpc/rpc_service.c:12) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 10:19:25.10 WARN   (app:source/main.c:67) - rpc server init success
+2018-04-12 10:19:25.10 WARN   (app:source/main.c:69) - app init success
+2018-04-12 10:20:53.10 WARN   (app:source/main.c:26) - log init success
+2018-04-12 10:20:53.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 10:20:53.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-12 10:20:53.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-12 10:20:53.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 10:20:53.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-12 10:20:53.10 WARN   (app:source/rpc/rpc_service.c:12) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 10:20:53.10 WARN   (app:source/main.c:67) - rpc server init success
+2018-04-12 10:20:53.10 WARN   (app:source/main.c:69) - app init success
+2018-04-12 10:23:39.10 WARN   (app:source/main.c:26) - log init success
+2018-04-12 10:23:39.10 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 10:23:39.10 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-12 10:23:39.10 WARN   (app:source/main.c:59) - tasks init success
+2018-04-12 10:23:39.10 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 10:23:39.10 WARN   (app:source/main.c:63) - collect service init success
+2018-04-12 10:23:39.10 WARN   (app:source/rpc/rpc_service.c:12) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 10:23:39.10 WARN   (app:source/main.c:67) - rpc server init success
+2018-04-12 10:23:39.10 WARN   (app:source/main.c:69) - app init success
+2018-04-12 15:30:41. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:30:41. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:30:41. 3 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-12 15:30:52. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:30:52. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:30:52. 3 WARN   (app:source/main.c:51) - collect task thread = 2
+2018-04-12 15:32:42. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:32:42. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:32:42. 3 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 15:32:42. 3 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 15:32:42. 3 WARN   (app:source/task/task_service.c:50) - task service thread running: (b250f0, 0)
+2018-04-12 15:32:42. 3 WARN   (app:source/task/task_service.c:50) - task service thread running: (b24dd0, 0)
+2018-04-12 15:32:42. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 15:32:42. 3 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 15:32:42. 3 WARN   (app:source/rpc/rpc_service.c:14) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 15:32:42. 3 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 15:32:42. 3 WARN   (app:source/main.c:71) - app init success
+2018-04-12 15:35:13. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:35:13. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:35:13. 3 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 15:35:13. 3 WARN   (app:source/task/task_service.c:18) - tls set: fd4cb0 1045dd0
+2018-04-12 15:35:13. 3 WARN   (app:source/task/task_service.c:51) - task service thread running: (1045dd0, 0)
+2018-04-12 15:35:13. 3 WARN   (app:source/task/task_service.c:18) - tls set: fd4cb0 10460f0
+2018-04-12 15:35:13. 3 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 15:35:13. 3 WARN   (app:source/task/task_service.c:51) - task service thread running: (10460f0, 0)
+2018-04-12 15:35:13. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 15:35:13. 3 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 15:35:13. 3 WARN   (app:source/rpc/rpc_service.c:14) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 15:35:13. 3 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 15:35:13. 3 WARN   (app:source/main.c:71) - app init success
+2018-04-12 15:36:55. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:36:55. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:36:55. 3 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 15:36:55. 3 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 15:36:55. 3 WARN   (app:source/task/task_service.c:50) - task running: (13e00f0, 13e00f0)
+2018-04-12 15:36:55. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 15:36:55. 3 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 15:36:55. 3 WARN   (app:source/rpc/rpc_service.c:14) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 15:36:55. 3 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 15:36:55. 3 WARN   (app:source/main.c:71) - app init success
+2018-04-12 15:36:55. 3 WARN   (app:source/task/task_service.c:50) - task running: (13dfdd0, 13dfdd0)
+2018-04-12 15:45:39. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:45:39. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:45:39. 3 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 15:45:39. 3 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 15:45:39. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 15:45:39. 3 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 15:45:39. 3 WARN   (app:source/rpc/rpc_service.c:14) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 15:45:39. 3 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 15:45:39. 3 WARN   (app:source/main.c:71) - app init success
+2018-04-12 15:45:39. 3 WARN   (app:source/task/task_service.c:50) - task running: (a3ddd0, a3ddd0)
+2018-04-12 15:45:39. 3 WARN   (app:source/task/task_service.c:50) - task running: (a3e0f0, a3e0f0)
+2018-04-12 15:46:27. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:46:27. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:46:27. 3 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 15:46:27. 3 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 15:46:27. 3 WARN   (app:source/task/task_service.c:50) - task running: (e22dd0, e22dd0)
+2018-04-12 15:46:27. 3 WARN   (app:source/task/task_service.c:50) - task running: (e230f0, e230f0)
+2018-04-12 15:46:27. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 15:46:27. 3 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 15:46:27. 3 WARN   (app:source/rpc/rpc_service.c:14) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 15:46:27. 3 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 15:46:27. 3 WARN   (app:source/main.c:71) - app init success
+2018-04-12 15:46:39. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:46:39. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:46:39. 3 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 15:46:39. 3 WARN   (app:source/task/task_service.c:50) - task running: (682dd0, 682dd0)
+2018-04-12 15:46:39. 3 WARN   (app:source/task/task_service.c:50) - task running: (6830f0, 6830f0)
+2018-04-12 15:46:39. 3 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 15:46:39. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 15:46:39. 3 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 15:46:39. 3 WARN   (app:source/rpc/rpc_service.c:14) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 15:46:39. 3 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 15:46:39. 3 WARN   (app:source/main.c:71) - app init success
+2018-04-12 15:47:30. 3 WARN   (app:source/main.c:26) - log init success
+2018-04-12 15:47:30. 3 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 15:47:30. 3 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 15:47:30. 3 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 15:47:30. 3 WARN   (app:source/task/task_service.c:50) - task running: (16f2dd0, 16f2dd0)
+2018-04-12 15:47:30. 3 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 15:47:30. 3 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 15:47:30. 3 WARN   (app:source/rpc/rpc_service.c:14) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 15:47:30. 3 WARN   (app:source/task/task_service.c:50) - task running: (16f30f0, 16f30f0)
+2018-04-12 15:47:30. 3 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 15:47:30. 3 WARN   (app:source/main.c:71) - app init success
+2018-04-12 16:11:40. 4 WARN   (app:source/main.c:26) - log init success
+2018-04-12 16:11:40. 4 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 16:11:40. 4 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 16:11:40. 4 WARN   (app:source/task/task_service.c:55) - task running: (17cfdd0, 17cfdd0)
+2018-04-12 16:11:40. 4 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 16:11:40. 4 WARN   (app:source/task/task_service.c:55) - task running: (17cfed0, 17cfed0)
+2018-04-12 16:11:40. 4 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 16:11:40. 4 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 16:11:40. 4 WARN   (app:source/rpc/rpc_service.c:15) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 16:11:40. 4 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 16:11:40. 4 WARN   (app:source/main.c:71) - app init success
+2018-04-12 16:13:36. 4 WARN   (app:source/main.c:26) - log init success
+2018-04-12 16:13:36. 4 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 16:13:36. 4 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 16:13:36. 4 WARN   (app:source/task/task_service.c:55) - task running: (1cebdd0, 1cebdd0)
+2018-04-12 16:13:36. 4 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 16:13:36. 4 WARN   (app:source/task/task_service.c:55) - task running: (1cebed0, 1cebed0)
+2018-04-12 16:13:36. 4 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 16:13:36. 4 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 16:13:36. 4 WARN   (app:source/rpc/rpc_service.c:15) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 16:13:36. 4 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 16:13:36. 4 WARN   (app:source/main.c:71) - app init success
+2018-04-12 16:13:42. 4 ERROR  (app:source/rpc/rpc_service.c:168) - addr(12801, 1) -> sock(0)
+2018-04-12 16:27:44. 4 WARN   (app:source/main.c:26) - log init success
+2018-04-12 16:27:44. 4 WARN   (app:source/main.c:42) - conf init success
+2018-04-12 16:27:44. 4 WARN   (app:source/main.c:53) - collect task thread = 2
+2018-04-12 16:27:44. 4 WARN   (app:source/task/task_service.c:55) - task running: (24f4dd0, 24f4dd0)
+2018-04-12 16:27:44. 4 WARN   (app:source/main.c:61) - tasks init success
+2018-04-12 16:27:44. 4 WARN   (app:source/task/task_service.c:55) - task running: (24f4ed0, 24f4ed0)
+2018-04-12 16:27:44. 4 WARN   (app:source/collect/collect_service.c:43) - collect service listen on 0.0.0.0:9090
+2018-04-12 16:27:44. 4 WARN   (app:source/main.c:65) - collect service init success
+2018-04-12 16:27:44. 4 WARN   (app:source/rpc/rpc_service.c:17) - rpc host = 0.0.0.0, port = 10000
+2018-04-12 16:27:44. 4 WARN   (app:source/main.c:69) - rpc server init success
+2018-04-12 16:27:44. 4 WARN   (app:source/main.c:71) - app init success
+2018-04-12 16:27:48. 4 ERROR  (app:source/rpc/rpc_service.c:174) - addr(12801, 1) -> sock(0)
